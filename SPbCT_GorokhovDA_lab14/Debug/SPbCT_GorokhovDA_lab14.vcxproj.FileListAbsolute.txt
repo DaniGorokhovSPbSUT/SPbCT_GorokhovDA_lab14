@@ -1,0 +1,3 @@
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA_lab14\SPbCT_GorokhovDA_lab14\Debug\SPbCT_GorokhovDA_lab14.vcxprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA_lab14\SPbCT_GorokhovDA_lab14\Debug\SPbCT_GorokhovDA_lab14.Form1.resources
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA_lab14\SPbCT_GorokhovDA_lab14\Debug\SPbCT_GorokhovDA_lab14.vcxproj.GenerateResource.cache

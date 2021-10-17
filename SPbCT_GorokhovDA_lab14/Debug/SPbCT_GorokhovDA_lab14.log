@@ -1,0 +1,5 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA_lab14\SPbCT_GorokhovDA_lab14\Form1.h(211,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Daniil\source\repos\SPbCT_GorokhovDA_lab14\SPbCT_GorokhovDA_lab14\Form1.h(565,21): warning C4018: <: несоответствие типов со знаком и без знака
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SPbCT_GorokhovDA_lab14.vcxproj -> C:\Users\Daniil\source\repos\SPbCT_GorokhovDA_lab14\Debug\SPbCT_GorokhovDA_lab14.exe
